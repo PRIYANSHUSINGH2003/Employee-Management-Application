@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.11.3",
+    "next-auth": "^4.24.10",
+    "sequelize": "^6.37.5"
+  }
+}
