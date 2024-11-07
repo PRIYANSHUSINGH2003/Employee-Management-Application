@@ -268,10 +268,7 @@ CREATE TABLE employee_teams (
 │   │   ├── teams/
 │   │   │   ├── index.js    # Team list API
 │   │   │   └── create.js   # Create team API
-│   ├── _middleware.js      # Middleware for protected routes
-│   └── index.js            # Main page for the app
-├── db.js                   # MySQL connection setup
-└── .env                    # Environment variables
+└── db.js                   # MySQL connection setup
 ```
 
 ## Screenshots
